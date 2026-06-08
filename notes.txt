@@ -1,0 +1,39 @@
+Extension:-
+---------------
+1)Auto rename tag Extension
+2)Bracket Pair Colorization Toggler
+3)Liver server
+4)Bracket Pair Colorization Toggler
+
+======================================
+Q1) why <script> is at bottom inside html file?
+answer: it reduce performance of loading of browser becoz we write javascript for logic , lots of code is there so that if it load first then takes more time..
+
+=>second reason is first let the all the attribute of html  fle  should load first then javascript run..
+
+Q2)How javascript is run inside a browser?
+One engineer, Ryan dahl in 2009, use google engine i.e v8 use for javascript file so that 
+javasscript file is ruuning isnide browser...
+
+=>Also he use that v8 engine to build nodejs , so that javascript file also run iniside nodejs..
+So nodejs is a flatform where javascript file will run inside it..
+=>if you don't want to run .js file inside browser directly then you can run it inside nodejs..
+
+=>So install nodejs in your system to run js file instead browser..
+C:\Users\niran>node --version
+v20.20.1
+C:\Users\niran>
+
+Q3)How to run js file inside nodejs?
+ans: node <filename>
+PS C:\project\EmbarkX\JavaScript> node index.js
+Hello world!!!
+Hello world!!!
+Hello world!!!
+PS C:\project\EmbarkX\JavaScript> 
+
+
+Q3)DOM?
+
+
+
