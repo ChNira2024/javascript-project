@@ -1,0 +1,149 @@
+1. JavaScript Fundamentals (Core Basics)
+---------------------------------------------------------
+What is JavaScript, how it works (browser vs Node)
+Variables: var, let, const
+Data types (primitive & reference)
+Operators (arithmetic, logical, comparison)
+Control Flow
+if, else, switch
+Loops: for, while, do...while
+break, continue
+Functions
+Function declaration & expression
+Arrow functions
+Parameters & return values
+Default parameters
+
+📦 2. Data Structures in JS
+----------------------------------------------
+Arrays (map, filter, reduce, forEach)
+Strings (methods & manipulation)
+Objects (key-value pairs)
+Nested objects & arrays
+Set & Map
+
+⚙️ 3. DOM Manipulation (Browser JS)
+--------------------------------------------------------------
+Selecting elements (getElementById, querySelector)
+Events (click, input, submit)
+Event listeners
+DOM traversal (parent, child, sibling)
+Creating & removing elements
+Form handling
+
+🔄 4. Advanced JavaScript Concepts (MUST KNOW)
+------------------------------------------------------------
+Execution & Scope
+Execution context
+Call stack
+Scope (global, function, block)
+Hoisting
+Closures & this
+Closures (very important)
+this keyword behavior
+bind, call, apply
+Asynchronous JS
+Callbacks
+Promises
+async/await
+Event loop (VERY IMPORTANT)
+Microtask vs macrotask queue
+
+🧩 5. ES6+ Features (Modern JS)
+---------------------------------------------
+let, const
+Arrow functions
+Template literals
+Destructuring
+Spread & rest operators
+Modules (import/export)
+Optional chaining (?.)
+Nullish coalescing (??)
+
+🌐 6. Browser APIs & Web Features
+---------------------------------------------------
+Fetch API / AJAX
+LocalStorage & SessionStorage
+Cookies
+Geolocation API
+Web APIs basics
+
+🔌 7. Error Handling & Debugging
+----------------------------------------------------
+try...catch...finally
+Throwing custom errors
+Debugging in browser DevTools
+Console methods
+
+🧱 8. Object-Oriented JavaScript (OOP)
+------------------------------------------------------
+Objects & prototypes
+Prototype chain
+Classes
+Constructor functions
+Inheritance
+
+⚡ 9. Functional Programming in JS
+------------------------------------------------------
+Pure functions
+Immutability
+Higher-order functions
+Function composition
+
+📡 10. Working with APIs
+--------------------------------------
+REST APIs
+HTTP methods (GET, POST, PUT, DELETE)
+JSON handling
+API integration using fetch/axios
+
+🖥️ 11. JavaScript in Node.js (Backend Basics)
+------------------------------------------------------------------
+What is Node.js
+NPM & packages
+File system module
+Express.js basics
+Middleware
+REST API creation
+
+🧪 12. Testing (Optional but valuable)
+------------------------------------------------------
+Unit testing basics
+Tools: Jest, Mocha
+
+🚀 13. Performance & Optimization
+---------------------------------------------------------
+Debouncing & throttling
+Memory management
+Lazy loading
+
+🔐 14. Security Basics
+------------------------------
+XSS (Cross-site scripting)
+CSRF
+Input validation
+
+🧰 15. Build Tools & Ecosystem
+--------------------------------------------
+NPM / Yarn
+Webpack / Vite (you already use Vite 👍)
+Babel
+
+🧑‍💻 16. Real Projects (MOST IMPORTANT)
+-------------------------------------------------------------
+Without this, learning is incomplete.
+Build:
+To-do app
+Weather app (API)
+Authentication app
+CRUD app (React + backend)
+Portfolio website (you already started 👍)
+
+🏆 17. Interview Preparation Topics
+-----------------------------------------------------
+Closures
+Event loop
+Promises vs async/await
+Array problems (map/filter/reduce)
+Object manipulation
+Debounce/throttle

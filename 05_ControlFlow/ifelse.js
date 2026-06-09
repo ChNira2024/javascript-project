@@ -36,3 +36,35 @@ if (ages >= 18) {
     console.log("ID required");
   }
 }
+
+let ageIs = 20;
+let hasPermission = true;
+if (ageIs >= 18) {
+  if (hasPermission) {
+    console.log("You are allowed to enter");
+  } else {
+    console.log("You need permission to enter");
+  }
+} else {
+  console.log("You not old enough to enter");
+}
+
+// Arrays
+let fruits = ["Apple", "banana", "orange"];
+let favouriteFruite = "Strawberry";
+if (fruits.includes(favouriteFruite)) {
+  console.log("Yes");
+} else {
+  console.log("No");
+}
+
+// Objects
+let user = {
+  name: "Alice",
+  isAdmin: false,
+};
+if (user.isAdmin) {
+  console.log("Welcome, Admin");
+} else {
+  console.log(`Welcome, ${user.name}`);
+}
